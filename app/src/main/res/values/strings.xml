@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Watermark</string>
+    <string name="camera">Camera</string>
+    <string name="algo1">algo1</string>
+    <string name="algo2">algo2</string>
+    <string name="algo3">algo3</string>
+    <string name="algo4">algo4</string>
+</resources>

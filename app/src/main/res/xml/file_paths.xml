@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<paths>
+    <external-path
+        name="files_root"
+        path="Android/data/darko.watermark" />
+    <external-path
+        name="external_storage_root"
+        path="." />
+</paths>
+<!--<paths xmlns:android="http://schemas.android.com/apk/res/android">-->
+<!--    <external-files-path-->
+<!--        name="my_images"-->
+<!--        path="Android/data/darko.watermark" />-->
+<!--</paths>-->

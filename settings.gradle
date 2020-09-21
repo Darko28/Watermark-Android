@@ -1,0 +1,4 @@
+include ':watermark'
+include ':app'
+rootProject.name = "Watermark"
+include ':openCVLibrary340'
